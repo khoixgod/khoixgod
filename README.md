@@ -11,4 +11,7 @@
   <img src="https://discord.c99.nl/widget/theme-1/984774157554311189.png"/>
 </p>
 
-[![gay](https://github-readme-stats.vercel.app/api?username=khoixgod&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khoixgod&show_icons=true&theme=dracula"/>
+</p>
