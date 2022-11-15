@@ -5,6 +5,8 @@
 ### Contacts
 - Discord: **kh0ixGOD#5610**
 
+![tifality](https://i.imgur.com/2ejHqt1.jpg)
+
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/984774157554311189.png"/>
 </p>
