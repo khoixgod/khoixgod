@@ -3,7 +3,7 @@
 - im gay
 
 ### Contacts
-- Discord: **kh0ixGOD#5610**
+- Discord: **kh0ixGOD#1337**
 
 <p align="center">
   <img src="https://i.imgur.com/2ejHqt1.jpg"/>
