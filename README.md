@@ -5,7 +5,5 @@ hi its khoi here
 
 ### Contacts
 ```
-
 Discord: **khoii#0001**
-
 ```
