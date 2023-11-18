@@ -5,6 +5,6 @@ hi its khoi here
 
 ### Contacts
 ```
-Discord: khoii#0001
+Discord: dvk1337
 Facebook: ./khoixgod
 ```
