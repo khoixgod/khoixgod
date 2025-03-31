@@ -1,10 +1,9 @@
 hi its khoi here
 ```
- tifality lover | im gay
+ tifality lover | 
 ```
 
 ### Contacts
 ```
-Discord: dvk1337
-Facebook: ./khoixgod
+Discord: zackwo
 ```
